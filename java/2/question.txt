@@ -1,5 +1,4 @@
-Please Create App that accept id , name and age of Student and print them (with oop)
+Please Create App that accept number , name of Player and print them (with oop)
 look!
-- make sure that id is > 0
-- make sure that age > 8 & <= 25
+- make sure that number is > 0
 - make sure that name size > 5
