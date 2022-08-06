@@ -1,0 +1,5 @@
+Please Create App school with 
+base Impl (add student , show student) ---> can't create object
+another impl contain same base impl but create new add student to print on it that you are on add student
+another impl contain same base impl but create new show student to print on it that you are on show student
+thanks !
