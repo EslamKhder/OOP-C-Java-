@@ -1,0 +1,17 @@
+Please Create App that has a 2 package 
+- pack 1 --->  Player(id name number)    PlayerBenfit(id,benfitPlayer,allPlayerbenfit)
+- pack 2 --->  Captain(id name active)   CaptainBenfit(id,benfitCaptain,allCaptainbenfit)
+
+
+make sure 
+for pack1 Player
+1 - any Class  on pack 1 extend PlayerBenfit can call all variable on PlayerBenfit
+2 - but if any  Class out pack 1 extend PlayerBenfit can call id benfitPlaye only on PlayerBenfit
+
+
+
+for pack2 Captain
+1 - any Class on pack 2 extend CaptainBenfit call all variable on CaptainBenfit
+2 - but if any Class out pack 2 extend CaptainBenfit can call id benfitCaptain  only CaptainBenfit
+
+Thanks
