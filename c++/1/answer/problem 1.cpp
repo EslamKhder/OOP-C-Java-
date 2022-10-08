@@ -1,20 +1,22 @@
 #include<iostream>
 using namespace std;
 class Employee {
-	public: 
+	public:
 		int id;
 		string name;
 		double age;
 };
 int main(){
-	
 	Employee e;
-	cout<<"Please Enter Your Id :";
+	//e.id = 1;
+	cout<<"Please Enter Your ID: ";
 	cin>>e.id;
-	cout<<"Please Enter Your Name :";
+	//e.name = "eslam";
+	cout<<"Please Enter Your Name: ";
 	cin>>e.name;
-	cout<<"Please Enter Your Age :";
+	//e.age = 22.5;
+	cout<<"Please Enter Your Age: ";
 	cin>>e.age;
+	cout<<e.id<<"  -  "<<e.name<<"  -  "<<e.age<<endl;
 	
-	cout<<e.id<<" - "<<e.name<<" - "<<e.age<<endl;
 }
