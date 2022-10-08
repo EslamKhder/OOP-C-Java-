@@ -1,0 +1,12 @@
+Please Create App that accept 
+Person(id,name) 
+Player(id , name, number,phone)
+student (id,name,age,phone) wit oop
+
+BaseEntity(id,name)
+ShareData(phone) extend BaseEntity(id,name)
+
+Person() extend BaseEntity(id,name)
+Player(number) extend ShareData(phone) extend BaseEntity(id,name)
+student (age) extend ShareData(phone) extend BaseEntity(id,name)
+wit oop

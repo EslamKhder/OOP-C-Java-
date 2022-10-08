@@ -1,0 +1,6 @@
+create APP that Accept Player(id,name,number) and student(id , name,age) and print Data 
+look!
+- id must be > 0
+- number length must be <=2       0 1     99
+- age must be > 7 and < 30 
+

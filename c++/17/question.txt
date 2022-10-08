@@ -1,0 +1,14 @@
+Please Create App that has a 2 package 
+- pack 1 --->  Student(id name grade)
+- pack 2 --->  Teacher(id name active)
+
+make sure 
+for pack1 student
+1 - any main on pack 1 can call all variable on Student 
+2 - but if any main out pack 1 can call id name  only
+
+for pack2 teacher
+1 - any main on pack 2 can call all variable on teacher
+2 - but if any main out pack 2 can call id name  only
+
+Thanks

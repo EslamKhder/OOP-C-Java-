@@ -1,0 +1,5 @@
+Please Create App facbook that accept data only by constractor 
+1 - id,text
+2 - id , text ,image
+look no setter
+no default constractor

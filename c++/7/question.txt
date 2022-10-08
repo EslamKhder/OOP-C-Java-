@@ -1,0 +1,7 @@
+Please Create App that accept 
+id , name , number , Fcode of clupFc and
+id , name , number , Rcode of clupRel
+of Player
+print 
+id , name , number
+id , name , number , code

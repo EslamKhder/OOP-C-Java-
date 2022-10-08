@@ -1,0 +1,1 @@
+Please Create App that accept id , name of privateschool  && id, name of puplicschool Student and print them (with oop)

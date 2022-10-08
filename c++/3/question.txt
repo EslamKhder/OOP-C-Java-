@@ -1,0 +1,3 @@
+Please Create App that accept 3 number and return sum of them (with oop)
+look: 
+- check that 3 number must be even number
