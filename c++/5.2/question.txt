@@ -9,4 +9,4 @@ ShareData(phone) extend BaseEntity(id,name)
 Person() extend BaseEntity(id,name)
 Player(number) extend ShareData(phone) extend BaseEntity(id,name)
 student (age) extend ShareData(phone) extend BaseEntity(id,name)
-wit oop
+with oop

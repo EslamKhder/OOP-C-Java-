@@ -1,0 +1,12 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(’ÆÉß
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(º€‡
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(İ¡©ş
+K
+java:S1128"0Remove this unused import 'java.awt.Graphics2D'.(­¨ú¸üÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+€
+java:S1598"cThis file "Main1.java" should be located in "com\java\other" directory, not in "E:\java-trs\other".(£Ö¬à8›ƒ¨¢§0

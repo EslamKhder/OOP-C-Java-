@@ -1,0 +1,15 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÄéÃ™
+V	java:S125"<This block of commented-out lines of code should be removed.(¿Á¿¿şÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Âß‡“
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ó®¯Çşÿÿÿÿ
+‚
+java:S1130$"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¬äˆÉ
+S
+java:S11974"8Move the array designator from the variable to the type.(©ã‘•ùÿÿÿÿ
+ƒ
+java:S1598"mThis file "ImageCompressed.java" should be located in "com\java\other" directory, not in "E:\java-trs\other".(£Ö¬à
+a
+java:S2259"K"NullPointerException" will be thrown when invoking method "resizeImage()".(í‡³‚

@@ -1,0 +1,16 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(š³ƒú
+Q	java:S125"<This block of commented-out lines of code should be removed.(»œŒÕ
+B
+java:S1481",Remove this unused "tempPNG" local variable.(¦©è¿
+E
+java:S1481"/Remove this unused "newFilePNG" local variable.(­ÉƒÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù¹†–
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ùüð†
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ñõ¬–
+I
+java:S1128".Remove this unused import 'java.awt.Graphics'.(ÂŸÏ§ùÿÿÿÿ
+y
+java:S1598"cThis file "Main2.java" should be located in "com\java\other" directory, not in "E:\java-trs\other".(£Ö¬à

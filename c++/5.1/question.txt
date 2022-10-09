@@ -1,0 +1,5 @@
+create APP that Accept Employee(id,name,number) and Master(id , name,age) and print Data 
+look!
+- id must be > 0
+- number length must be <=2
+- age must be > 7 and < 30 
