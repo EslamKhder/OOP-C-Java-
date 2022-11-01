@@ -1,7 +1,8 @@
 Please Create App that accept 
-id , name , number , Fcode of clupFc and
-id , name , number , Rcode of clupRel
+
+id , name , number , code of clupFc and
+id , name , number , licence of clupRel
 of Player
 print 
 id , name , number
-id , name , number , code
+id , name , number , code or licence

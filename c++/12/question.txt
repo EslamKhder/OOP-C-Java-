@@ -3,3 +3,10 @@ Please Create App facbook that accept data only by constractor
 2 - id , text ,image
 look no setter
 no default constractor
+
+class Student {
+	Student(){
+	}
+	Student(int x){
+	}
+}

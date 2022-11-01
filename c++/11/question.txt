@@ -1,6 +1,9 @@
 please create app resturant contain class has 
 (
 	add order  with impl,
-	show order with no impl
+	show order with no impl       abstract functin
 )
-and create another class to controll it
+-------------------------------------------
+interface
+---------------------------------------
+abstract class
