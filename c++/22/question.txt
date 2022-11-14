@@ -1,0 +1,3 @@
+Write  a  class  Time  with  three  data  members  to  store  hr,  min  and  seconds.  
+Createtwo constructors and apply checks to set valid time. 
+Also create display function whichdisplays all data members.

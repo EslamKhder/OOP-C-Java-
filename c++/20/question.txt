@@ -1,0 +1,3 @@
+Create a class  circle class with  radius as data member. 
+Create two constructors  (noargument, and two arguments) and 
+a method to calculate Circumference.   Activity 2: 

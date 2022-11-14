@@ -1,0 +1,2 @@
+create project to recive student data as you like and teacher data as you like 
+but every one of teacher has max student 5  if teacher has more please stop this

@@ -1,0 +1,4 @@
+Create an Abstract class Student that contains a method take  exam, 
+implement themethod in the  child  classes  PhdStudent  and  GradStudent  in  which PhdStudent  takesexam
+  by giving his final defense presentation 
+while the graduate student gives a writtenpaper.

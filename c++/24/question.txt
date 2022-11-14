@@ -1,0 +1,8 @@
+Implement Vehicle as outer and owner as the inner class, 
+the vehicle  class containsvehicle name, engine cc, 
+model as data members. The inner class data members areowners name,
+CNIC number and phone contact of the owner. 
+Write down proper setters/ getters and constructors for both the classes. 
+1: Override the method of a class using anonymous inner class. 
+2: Pass an anonymous inner class as a method argument. 
+3: Implement the inner class as static first and then as non static nested class.

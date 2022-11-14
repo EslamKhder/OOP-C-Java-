@@ -1,0 +1,4 @@
+A Student is an object in a university management System. Analyze the concept andidentify 
+the data members   that   a   Student   class   should   have.  
+ Also   analyze   thebehavior   of  student  in   a   university management System and identify 
+the methodsthat should be included in Student class

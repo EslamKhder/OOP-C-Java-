@@ -1,0 +1,2 @@
+members ( feet and inches) . Create setter, getter and display method. Create a methodthat 
+adds two Distance Objects and returns the added Distance Object
